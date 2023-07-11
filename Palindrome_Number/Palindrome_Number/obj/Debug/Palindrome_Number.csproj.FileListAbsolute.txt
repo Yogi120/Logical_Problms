@@ -1,0 +1,8 @@
+C:\Users\brijesh.pal\source\repos\logical_problems\Palindrome_Number\Palindrome_Number\bin\Debug\Palindrome_Number.exe.config
+C:\Users\brijesh.pal\source\repos\logical_problems\Palindrome_Number\Palindrome_Number\bin\Debug\Palindrome_Number.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\Palindrome_Number\Palindrome_Number\bin\Debug\Palindrome_Number.pdb
+C:\Users\brijesh.pal\source\repos\logical_problems\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.csproj.AssemblyReference.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.csproj.CoreCompileInputs.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\Palindrome_Number\Palindrome_Number\obj\Debug\Palindrome_Number.pdb

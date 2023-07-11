@@ -1,0 +1,8 @@
+C:\Users\brijesh.pal\source\repos\logical_problems\Prime_number\Prime_number\bin\Debug\Prime_number.exe.config
+C:\Users\brijesh.pal\source\repos\logical_problems\Prime_number\Prime_number\bin\Debug\Prime_number.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\Prime_number\Prime_number\bin\Debug\Prime_number.pdb
+C:\Users\brijesh.pal\source\repos\logical_problems\Prime_number\Prime_number\obj\Debug\Prime_number.csproj.AssemblyReference.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Prime_number\Prime_number\obj\Debug\Prime_number.csproj.SuggestedBindingRedirects.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Prime_number\Prime_number\obj\Debug\Prime_number.csproj.CoreCompileInputs.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Prime_number\Prime_number\obj\Debug\Prime_number.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\Prime_number\Prime_number\obj\Debug\Prime_number.pdb
