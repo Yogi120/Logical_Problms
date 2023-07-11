@@ -1,0 +1,8 @@
+C:\Users\brijesh.pal\source\repos\logical_problems\Reverse_number\Reverse_number\bin\Debug\Reverse_number.exe.config
+C:\Users\brijesh.pal\source\repos\logical_problems\Reverse_number\Reverse_number\bin\Debug\Reverse_number.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\Reverse_number\Reverse_number\bin\Debug\Reverse_number.pdb
+C:\Users\brijesh.pal\source\repos\logical_problems\Reverse_number\Reverse_number\obj\Debug\Reverse_number.csproj.AssemblyReference.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Reverse_number\Reverse_number\obj\Debug\Reverse_number.csproj.SuggestedBindingRedirects.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Reverse_number\Reverse_number\obj\Debug\Reverse_number.csproj.CoreCompileInputs.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\Reverse_number\Reverse_number\obj\Debug\Reverse_number.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\Reverse_number\Reverse_number\obj\Debug\Reverse_number.pdb
