@@ -1,0 +1,8 @@
+C:\Users\brijesh.pal\source\repos\logical_problems\SumofDigits\SumofDigits\bin\Debug\SumofDigits.exe.config
+C:\Users\brijesh.pal\source\repos\logical_problems\SumofDigits\SumofDigits\bin\Debug\SumofDigits.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\SumofDigits\SumofDigits\bin\Debug\SumofDigits.pdb
+C:\Users\brijesh.pal\source\repos\logical_problems\SumofDigits\SumofDigits\obj\Debug\SumofDigits.csproj.AssemblyReference.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\SumofDigits\SumofDigits\obj\Debug\SumofDigits.csproj.SuggestedBindingRedirects.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\SumofDigits\SumofDigits\obj\Debug\SumofDigits.csproj.CoreCompileInputs.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\SumofDigits\SumofDigits\obj\Debug\SumofDigits.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\SumofDigits\SumofDigits\obj\Debug\SumofDigits.pdb
